@@ -11,3 +11,5 @@ http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8?token=57c5a031af
 http://172.17.50.112/live/antbd1005/index.m3u8
 EXTINF:-1 group-title="Song" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZr6X55PUTRjPNFJai3XApfPnhsAEAtff9Zw&usqp=CAU",Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
+EXTINF:-1 group-title="Bangka Movie-kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeaT6utgpfzuzTSycVNz8LFXtkJDT9b13qoA&usqp=CAU",100% Love(2011)
+http://10.16.100.206/ftps3/ftps3d5/Movies/Bangla%20(Kolkata)/100%25%20Love%20(2012)%201080p%20WEBRip.mp4
