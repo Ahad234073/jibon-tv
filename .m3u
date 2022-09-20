@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla Movie-kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIQhqSD1X0Jyq3CQjQ95ijN0UZZgF4jzmOg&usqp=CAU",Challenge 
 http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Bangla%20(Kolkata)/Challenge%20(2009)%201080p%20WEBRip.mp4
+#EXTINF:-1 group-title="Bangla Movie-kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKGaJtjgMI2bzQ8LYNb8FCBQk9EgwOXj8mQ&usqp=CAU",Challeng 2
+http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Bangla%20(Kolkata)/Challenge%202%20(2012)%201080p%20WEBRip.mp4
