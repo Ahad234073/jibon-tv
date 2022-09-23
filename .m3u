@@ -5,9 +5,9 @@ http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Bangla%20(Kolkata)/Challenge%2
 http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Bangla%20(Kolkata)/Challenge%202%20(2012)%201080p%20WEBRip.mp4
 #EXTINF:-1 group-title="Bangla Movie-dhaka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbCkzycKarKIXJU4WaDHlXu0PZynwtDZMZyA&usqp=CAU",Shikari(2016)
 http://10.16.100.206/ftps3/ftps3d1/Movies/Bangla/Shikari%20(2016)%201080p%20WEBHD.mp4
-#EXTINF:-1 group-title="Bangladeshi-iptv" tvg-logo="https://www.tsports.com/public/images/logo.png",T Sports
+#EXTINF:-1 group-title="Bangladeshi-Sports" tvg-logo="https://www.tsports.com/public/images/logo.png",T Sports
 http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8?token=57c5a031aff148d87fb69ae6d6a4d92d1877837d-2ac5126b776d55d8d7d77546937a3f07-1663709518-1663698718
-#EXTINF:-1 group-title="Bangladeshi-iptv" tvg-logo="https://www.tsports.com/public/images/logo.png",T Sports HD
+#EXTINF:-1 group-title="Bangladeshi-Sports" tvg-logo="https://www.tsports.com/public/images/logo.png",T Sports HD
 http://172.17.50.112/live/antbd1005/index.m3u8
 EXTINF:-1 group-title="Music-Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZr6X55PUTRjPNFJai3XApfPnhsAEAtff9Zw&usqp=CAU",Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
@@ -15,8 +15,8 @@ EXTINF:-1 group-title="Bangka Movie-kolkata" tvg-logo="https://encrypted-tbn0.gs
 http://10.16.100.206/ftps3/ftps3d5/Movies/Bangla%20(Kolkata)/100%25%20Love%20(2012)%201080p%20WEBRip.mp4
 EXTINF:-1 group-title="Music-Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn5HAO7IDYzScp-5ABVilV7yNmMOd8baHnEpTgBWbq8rnsBuG2yisrs0&s=10", Zoom
 http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8?token=9884f18aef0b210370e17e2b052fe0a1959e4a3a-bbdeeff7df013b0f9ca6cf835e49a788-1663721301-1663710501
-EXTINF:-1 group-title="Music-Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/200?cb=20210728061036", Mtv 
-http://stream.amrbd.com:8082/Mtv/preview.mp4?token=ddf2b6cb9c0de6d1b38276d23dcb0c6211127d77-3634e4b1b68dd4c11bb8b6f45df89157-1663721317-1663710517
+EXTINF:-1 group-title="Music-Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434",9xm
+http://stream.amrbd.com:8082/9XM/preview.mp4?token=36ecb630125e34a9b29387421139bca38d2d228a-f580014f7de4e4187f934cf3d8c8905e-1663942292-1663931492
 EXTINF:-1 group-title="Music-Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU",Sangeet Bangla
 http://edge.thunderbd.com:8081/roarzone/48/chunks.m3u8
 EXTINF:-1 group-title="Event" tvg-logo="https://c8.alamy.com/comp/2HF0R4B/soccer-football-competition-match-national-teams-ghana-vs-brazil-2HF0R4B.jpg",Brazil vs Ghana
