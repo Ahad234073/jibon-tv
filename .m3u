@@ -19,5 +19,6 @@ EXTINF:-1 group-title="Music-Hindi" tvg-logo="https://static.wikia.nocookie.net/
 http://stream.amrbd.com:8082/Mtv/preview.mp4?token=ddf2b6cb9c0de6d1b38276d23dcb0c6211127d77-3634e4b1b68dd4c11bb8b6f45df89157-1663721317-1663710517
 EXTINF:1 group-title="Music-Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU",Sangeet Bangla
 http://edge.thunderbd.com:8081/roarzone/48/chunks.m3u8
-EXTINF:1 group-title="Event" tvg-logo="https://c8.alamy.com/comp/2HF0R4B/soccer-football-competition-match-national-teams-ghana-vs-brazil-2HF0R4B.jpg",BrazilvsGhana
+EXTINF:1 group-title="Event" tvg-logo="https://c8.alamy.com/comp/2HF0R4B/soccer-football-competition-match-national-teams-ghana-vs-brazil-2HF0R4B.jpg",Brazil vs Ghana
 http://n5.yacinelivetv.com/live/4440100/index.m3u8
+EXTINF:-1 group-title="Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6woxf9EGxmh5VIaC81eSxwmnDKpQNM948g&usqp=CAU",Argentina vs Honduras 
