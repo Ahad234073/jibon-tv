@@ -16,7 +16,7 @@ http://10.16.100.206/ftps3/ftps3d5/Movies/Bangla%20(Kolkata)/100%25%20Love%20(20
 EXTINF:-1 group-title="Music-Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn5HAO7IDYzScp-5ABVilV7yNmMOd8baHnEpTgBWbq8rnsBuG2yisrs0&s=10", Zoom
 http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8?token=9884f18aef0b210370e17e2b052fe0a1959e4a3a-bbdeeff7df013b0f9ca6cf835e49a788-1663721301-1663710501
 EXTINF:-1 group-title="Music-Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434",9xm
-http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8?token=36ecb630125e34a9b29387421139bca38d2d228a-f580014f7de4e4187f934cf3d8c8905e-1663942292-1663931492
+http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8?token=93b72fffe3e471fe47594e36cf7fee86e9869edb-406727cb49c499a9353b1e744c229d8d-1663942683-1663931883
 EXTINF:-1 group-title="Music-Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU",Sangeet Bangla
 http://edge.thunderbd.com:8081/roarzone/48/chunks.m3u8
 EXTINF:-1 group-title="Event" tvg-logo="https://c8.alamy.com/comp/2HF0R4B/soccer-football-competition-match-national-teams-ghana-vs-brazil-2HF0R4B.jpg",Brazil vs Ghana
