@@ -17,9 +17,9 @@ EXTINF:-1 group-title="Music-Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com
 http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8?token=9884f18aef0b210370e17e2b052fe0a1959e4a3a-bbdeeff7df013b0f9ca6cf835e49a788-1663721301-1663710501
 EXTINF:-1 group-title="Music-Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/200?cb=20210728061036", Mtv 
 http://stream.amrbd.com:8082/Mtv/preview.mp4?token=ddf2b6cb9c0de6d1b38276d23dcb0c6211127d77-3634e4b1b68dd4c11bb8b6f45df89157-1663721317-1663710517
-EXTINF:1 group-title="Music-Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU",Sangeet Bangla
+EXTINF:-1 group-title="Music-Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU",Sangeet Bangla
 http://edge.thunderbd.com:8081/roarzone/48/chunks.m3u8
-EXTINF:1 group-title="Event" tvg-logo="https://c8.alamy.com/comp/2HF0R4B/soccer-football-competition-match-national-teams-ghana-vs-brazil-2HF0R4B.jpg",Brazil vs Ghana
+EXTINF:-1 group-title="Event" tvg-logo="https://c8.alamy.com/comp/2HF0R4B/soccer-football-competition-match-national-teams-ghana-vs-brazil-2HF0R4B.jpg",Brazil vs Ghana
 http://n5.yacinelivetv.com/live/4440100/index.m3u8
 EXTINF:-1 group-title="Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6woxf9EGxmh5VIaC81eSxwmnDKpQNM948g&usqp=CAU",Argentina vs Honduras 
 https://s10.gocast123.me:8201/hd/hls/weXZocgi8-7blRFwHimZmA/1663929713/superspfb.m3u8
