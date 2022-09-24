@@ -25,3 +25,5 @@ EXTINF:-1 group-title="Event" tvg-logo="https://encrypted-tbn0.gstatic.com/image
 https://s10.gocast123.me:8201/hd/hls/weXZocgi8-7blRFwHimZmA/1663929713/superspfb.m3u8
 EXTINF:-1 group-title="Bangla-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",Ekattor Tv
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=0eb9b41622889f23c50e4ff1c6ec3646d0f23169-b00db212446afc46e6ba3b5acf4c3b7b-1663939423-1663928623
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath
+http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=ce926b8dbc3b19400326a40ef270b1c4a4867e2c-d92452d2b3fb69af51e1bd06664c7564-1664030927-1664020127
